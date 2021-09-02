@@ -1,0 +1,9 @@
+.game-area {
+    padding: 10px;
+    font-size: 2em;
+    text-align: center;
+    box-sizing: border-box;
+    border: 5px solid maroon;
+    height: 100vh;
+    min-height: 200px;
+    }
