@@ -18,6 +18,11 @@ Open http://localhost:3000 to view the output in the browser.
 
 This project needs npm to run this React JS application.
 
+
+## Game-play:
+
+![](https://github.com/SandeepLakka/GTN/blob/master/GTNGamePlay.gif)
+
 ### Note:
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and enhanced to add the functionality of components.
