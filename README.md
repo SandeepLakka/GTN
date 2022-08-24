@@ -1,8 +1,8 @@
-# Getting Started with Create React App
+# Guess The Number (GTN) Game using UI
 
 This is basic implementation of the Number guessing game.
 
-You can check the game here : https://www.mathsisfun.com/games/guess_number.html
+You can check the game here for game rules : https://www.mathsisfun.com/games/guess_number.html
 
 ## How to run:
 
@@ -17,7 +17,6 @@ Open http://localhost:3000 to view the output in the browser.
 ## Pre-requisites:
 
 This project needs npm to run this React JS application.
-
 
 ## Game-play:
 
